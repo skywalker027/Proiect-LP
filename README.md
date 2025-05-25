@@ -7,6 +7,9 @@ CERINTE:
   3. Implementați o funcție principală care preia imaginea originală și imaginea cu contururi detectate și le afișează utilizând figuri matplotlib. Adăugați un titlu fiecărei figuri pentru a face diferența între imaginea originală și cea procesată. Creați o funcție capabilă să preia imaginea procesată și să o salveze într-un director cu denumirea out lângă script, iar denumirea imaginii să fie de tipul: contur_nume_original_imagine.
 
 SURSE:
+
   https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html  
+  
   https://www.geeksforgeeks.org/how-to-display-multiple-images-in-one-figure-correctly-in-matplotlib/ 
+  
   ChatGPT
